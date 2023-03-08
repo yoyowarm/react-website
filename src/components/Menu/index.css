@@ -1,0 +1,18 @@
+.menu {
+  @apply flex flex-wrap  flex-row items-center justify-end mr-20 mt-8
+}
+.item {
+  @apply cursor-pointer underline text-lg mr-10
+}
+img {
+  @apply cursor-pointer
+}
+.blue {
+  color:#3682BB
+}
+
+@media (max-width: 745px) {
+  .menu {
+    @apply mr-0
+  }
+}

@@ -1,0 +1,9 @@
+.form {
+  width: 100%;
+  margin: 0 auto;
+}
+.submit {
+  color:#fff;
+  background:#E65C68;
+  @apply rounded-full py-2 px-6 mt-6 text-xl
+}

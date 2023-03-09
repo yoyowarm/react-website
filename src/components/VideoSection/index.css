@@ -1,0 +1,14 @@
+.video-section {
+  width: 100%;
+  margin: 0 auto;
+  background: #203D53;
+}
+.info {
+  width: 60%;
+  margin: 0 auto;
+  color: #fff;
+  @apply py-14
+}
+.more {
+  @apply underline cursor-pointer mt-12 inline-block
+}

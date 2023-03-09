@@ -1,0 +1,17 @@
+.title-group {
+  @apply pb-3 relative
+}
+.title-group::after{
+  content: '';
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: -15px;
+  width: 55px;
+  height: 33px;
+  border-bottom: 1px solid #000;
+  @apply mt-4
+}
+.title {
+  @apply text-xl font-semibold
+}

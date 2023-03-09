@@ -1,5 +1,5 @@
 .menu {
-  @apply flex flex-wrap  flex-row items-center justify-end mr-20 mt-8
+  @apply flex flex-wrap  flex-row items-center justify-end mr-20 pt-8
 }
 .item {
   @apply cursor-pointer underline text-lg mr-10

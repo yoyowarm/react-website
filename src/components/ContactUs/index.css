@@ -1,0 +1,14 @@
+.contact {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #3682BB1A;
+    align-items: start;
+    @apply mt-6 p-4 sm:p-12 mt-32
+}
+
+.contact h2 {
+    font-size: 32px;
+}
+.contact .email {
+    color: #E340A2
+}

@@ -5,7 +5,8 @@ import './index.css';
 const Menu = (props) => {
   const [menuList] = useState(['About', 'App', 'Feature', 'Career', 'Investor', 'Contact']);
   return (
-    <div className="menu">
+    <div className={'menu ' + (props.class ? props.class : '')}>
+      {props.left}
       {menuList.map((item, index) => {
         return <div className={'item ' + props.color} key={index}>{item}</div>
       })}

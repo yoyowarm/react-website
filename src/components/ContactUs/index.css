@@ -3,7 +3,7 @@
     margin: 0 auto;
     background-color: #3682BB1A;
     align-items: start;
-    @apply mt-6 p-4 sm:p-12 mt-32
+    @apply p-4 sm:p-12 mt-32
 }
 
 .contact h2 {
@@ -11,4 +11,10 @@
 }
 .contact .email {
     color: #E340A2
+}
+
+@media (max-width: 700px) {
+    .contact {
+        width: 100%;
+    }
 }

@@ -1,4 +1,13 @@
 .article {
     width: 75%;
     margin: 0 auto;
+    @apply mt-20
+}
+.article .Item {
+    width: 250px;
+    @apply text-center
+}
+
+.article .Item h3 {
+    @apply text-2xl font-semibold my-4
 }

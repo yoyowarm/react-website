@@ -1,0 +1,11 @@
+.footer {
+  width: 100%;
+  min-height: 600px;
+  background:#3682BB1A;
+  @apply mt-20
+}
+.container {
+  width: 75%;
+  margin: 0 auto;
+  @apply pt-12 sm:pt-28
+}

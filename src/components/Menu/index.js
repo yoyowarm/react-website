@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import switchImg from '../../assets/images/mode-switch.png';
+
 import './index.css';
 
 const Menu = (props) => {

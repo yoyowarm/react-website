@@ -1,8 +1,8 @@
 import './index.css'
 
-const Item = ({ imgSrc }) => {
+const Item = ({ imgSrc, className }) => {
   return (
-    <div className='partner-item'>
+    <div className={'partner-item ' + className}>
       <img src={imgSrc} alt="" />
     </div>
   )

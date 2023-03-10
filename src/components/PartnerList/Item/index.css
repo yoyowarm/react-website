@@ -1,6 +1,13 @@
 .partner-item {
-  background:#C4C4C426;
   width: 220px;
   height: 220px;
   @apply flex justify-center items-center mb-4
+}
+
+@media (max-width: 450px) {
+  .partner-item {
+    width: 150px;
+    height: 150px;
+    background: inherit;
+  }
 }

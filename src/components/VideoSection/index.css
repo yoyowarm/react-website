@@ -12,3 +12,9 @@
 .more {
   @apply underline cursor-pointer mt-12 inline-block
 }
+
+@media (max-width: 450px) {
+  .info {
+    width:85%;
+  }
+}

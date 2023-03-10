@@ -14,8 +14,8 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <div className='flex justify-center items-center pl-32 mb-32'>
-        <Menu color="blue" class="!mt-40" left={<img className='w-24 mr-32' src={logo} alt="logo" />} />
+      <div className='flex justify-end md:justify-center items-center pl-32 mb-32'>
+        <Menu color="blue" class="md:!mt-40" left={<img className='w-24 md:mr-32' src={logo} alt="logo" />} />
       </div>
       <ProductList />
       <VideoSection />

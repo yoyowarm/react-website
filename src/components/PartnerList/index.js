@@ -18,7 +18,7 @@ const PartnerList = () => {
       <TitleGroup title="Our Clients" />
       <div className='flex flex-row flex-wrap justify-center sm:justify-between mt-6'>
         {partners.map((partner, index) => (
-          <PartnerItem key={index} imgSrc={partner.imgSrc} />
+          <PartnerItem key={index} imgSrc={partner.imgSrc} className={index % 2 === 0 ? 'pr-2 sm:pr-0' : 'pl-2 sm:pl-0'} />
         ))}
       </div>
     </div>

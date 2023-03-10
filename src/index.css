@@ -23,8 +23,16 @@ body {
   .column-2 {
     @apply flex flex-col gap-3;
   }
+}
+@media screen and (max-width: 980px) and (min-width: 450px) {
   .column-3 {
-    @apply flex flex-col gap-3;
+    @apply grid grid-cols-2 gap-3;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .column-3 {
+    @apply grid grid-cols-1 gap-3;
   }
 }
 

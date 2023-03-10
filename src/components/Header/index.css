@@ -62,7 +62,11 @@
   border-bottom: 2px solid #3682BB;
   @apply mt-4
 }
-
+@media (max-width: 450px) {
+  .header-content {
+    @apply !mt-3
+  }
+}
 @media (max-width:860px) {
   .header-content {
     width: 90%;

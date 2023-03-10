@@ -30,7 +30,7 @@ const Menu = (props) => {
           return <div className={'item show ' + props.color} key={index}>{item}</div>
         })}
       </div>
-      <div className={openPopup ? 'cover show' : 'cover'}></div>
+      <div className={openPopup ? 'cover show' : 'cover'} onClick={() => { setOpenPopup(!openPopup) }}></div>
     </div>
   );
 }

@@ -46,12 +46,13 @@ const Footer = () => {
         <div className='flex flex-wrap h-auto'>
           <img className='w-24 mr-12 mb-2' src={logo} alt="logo" />
           <div className='flex flex-wrap mb-2'>
-            <img className='w-6 mr-8 h-auto object-contain' src={icon1} alt="icon" />
-            <img className='w-6 mr-8 h-auto object-contain' src={icon2} alt="icon" />
-            <img className='w-6 mr-8 h-auto object-contain' src={icon3} alt="icon" />
-            <img className='w-6 mr-8 h-auto object-contain' src={icon4} alt="icon" />
-            <img className='w-6 mr-8 h-auto object-contain' src={icon5} alt="icon" />
-            <img className='w-6 ' src={icon6} alt="icon" />
+            <img className='w-6 mr-8 mb-2 h-auto object-contain' src={icon1} alt="icon" />
+            <img className='w-6 mr-8 mb-2 h-auto object-contain' src={icon2} alt="icon" />
+            <img className='w-6 mr-8 mb-2 h-auto object-contain' src={icon3} alt="icon" />
+            <img className='w-6 mr-8 mb-2 h-auto object-contain' src={icon4} alt="icon" />
+            <img className='w-6 mr-8 mb-2 h-auto object-contain' src={icon5} alt="icon" />
+            <img className='w-6 mr-8 mb-2 h-auto object-contain' src={icon6} alt="icon" />
+            <img className='w-6 h-auto object-contain' src={icon7} alt="icon" />
           </div>
         </div>
         <p className='text-sm'>© 2023 PlayaLab All rights reserved.</p>

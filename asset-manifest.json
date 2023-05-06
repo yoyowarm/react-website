@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4606a759.css",
+    "main.js": "/static/js/main.1824650d.js",
+    "static/js/787.ad8dedf7.chunk.js": "/static/js/787.ad8dedf7.chunk.js",
+    "static/media/banner-bg.png": "/static/media/banner-bg.2345181a953fce6d6b18.png",
+    "static/media/banner-2.png": "/static/media/banner-2.8baeeb30b51d1adc170c.png",
+    "static/media/banner-1.png": "/static/media/banner-1.b60fee9301e338e2f287.png",
+    "static/media/article-image-1.png": "/static/media/article-image-1.11c16236cea908f792e7.png",
+    "static/media/article-image-5.png": "/static/media/article-image-5.b37a86eb21d88ef9d02e.png",
+    "static/media/section-image-3.png": "/static/media/section-image-3.aed0ff5dc0f520120978.png",
+    "static/media/article-image-4.png": "/static/media/article-image-4.68769f5eb604b17b695e.png",
+    "static/media/article-image-3.png": "/static/media/article-image-3.6460885b96788636a397.png",
+    "static/media/article-image-2.png": "/static/media/article-image-2.615716d2bae2880781ef.png",
+    "static/media/section-image-4.png": "/static/media/section-image-4.41dc852f4d7d02fb20b5.png",
+    "static/media/section-image-5.png": "/static/media/section-image-5.594315550a577a28b8b3.png",
+    "static/media/info-image.png": "/static/media/info-image.0da1391f87a841ad2752.png",
+    "static/media/section-image-6.png": "/static/media/section-image-6.dc4d78ca9b2d6aeddd6c.png",
+    "static/media/clients-4.png": "/static/media/clients-4.80962d5b32eaa4691f25.png",
+    "static/media/info-image-2.png": "/static/media/info-image-2.75aa844f57ed09afe6c8.png",
+    "static/media/section-image-2.png": "/static/media/section-image-2.357647461866d636ac18.png",
+    "static/media/roadmap.png": "/static/media/roadmap.81d98229e2f01f5209cd.png",
+    "static/media/section-image-1.png": "/static/media/section-image-1.4677662ecda502e43c0a.png",
+    "static/media/close.svg": "/static/media/close.c394a380e7621ae49ca87382f65cd5e1.svg",
+    "static/media/options.svg": "/static/media/options.4aabe198fa76eb9995c4524e645ce8ff.svg",
+    "index.html": "/index.html",
+    "main.4606a759.css.map": "/static/css/main.4606a759.css.map",
+    "main.1824650d.js.map": "/static/js/main.1824650d.js.map",
+    "787.ad8dedf7.chunk.js.map": "/static/js/787.ad8dedf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4606a759.css",
+    "static/js/main.1824650d.js"
+  ]
+}
